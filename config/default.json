@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "first full stack with mern",
+  "mongoUri": "mongodb+srv://bohdan:3password3@cluster0.fxncp.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+
+}
